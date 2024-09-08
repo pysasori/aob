@@ -17,15 +17,8 @@ if __name__ == "__main__":
     while True:
         try:
             start_cord = functions.search_on_screen('templates_img/icon_game.bmp')
-            # For activate window
 
             functions.mouse_move_click(start_cord[0] + default_shift_start[0], start_cord[1] + default_shift_start[1])
-
-            # amount_lots = utils.update_amount_lots(start_cord, list_towarow_main)
-            #
-            # list_towarow = list_towarow_main[:amount_lots]
-            #
-            # random.shuffle(list_towarow)
 
             while True:
                 try:

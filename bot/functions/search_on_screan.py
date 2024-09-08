@@ -9,7 +9,7 @@ def search_on_screen(img: str, threshold: float = 0.87, cords: list | None = Non
     start_time = time.time()
     img_rgb = cv2.imread(img)
     img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
-
+    print('search_on_screen', img)
     while True:
         if cords:
             #print('region', cords[0], cords[1], cords[2], cords[3])
