@@ -1,0 +1,25 @@
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Среда разработки
+.idea/
+.vscode/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Виртуальная среда
+venv/
+ENV/
+env/
+*.env
+
+
+logs_screen/
+main_test_search.py
+test.py
+#config.py
+*.zip
