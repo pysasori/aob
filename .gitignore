@@ -21,5 +21,6 @@ env/
 logs_screen/
 main_test_search.py
 test.py
-#config.py
+config.py
+amount_lots.txt
 *.zip
