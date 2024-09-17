@@ -57,12 +57,13 @@ if __name__ == "__main__":
                             sell_order, buy_order = utils.get_prices(start_cord)
 
                             profit = sell_order - buy_order
-                            profit_percentage = (profit / buy_order)
+                            profit_percentage = (profit / sell_order)
 
                             if profit_percentage < item['profit']:
-                                utils.dell_first_buy_order(start_cord)
+                                if profit_percentage < 13:
+                                    utils.dell_first_buy_order(start_cord)
                                 continue
-                            if sell_order > 1600000:
+                            if sell_order > 450000:
                                 continue
 
                             ### Количество ордеров покупок
@@ -86,14 +87,14 @@ if __name__ == "__main__":
                                     utils.buy_lots(start_cord, buy_order)
                                 elif amount_sell > 2:
                                     utils.dell_first_buy_order(start_cord)
-                                elif int(buy_lust_time) < (24 - int(item['time_update'])):
+                                elif int(buy_lust_time) < (17 - int(item['time_update'])):
                                     utils.dell_first_buy_order(start_cord)
                                     utils.buy_lots(start_cord, buy_order)
                             except Exception as e:
                                 print(e, '86')
 
                             try:
-                                if int(sell_lust_time) < (24 - int(item['time_update'])):
+                                if int(sell_lust_time) < (16 - int(item['time_update'])):
                                     utils.dell_first_sell_order(start_cord)
                                     time.sleep(0.7)
                                     ### Получаем товар в рюкзак если он есть

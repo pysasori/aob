@@ -54,19 +54,14 @@ def sell_and_buy_together(start_cord, item):
             try:
                 sell_order, buy_order = scan_price(start_cord)
                 profit = sell_order - buy_order
-                profit_percentage = (profit / buy_order)
-                if profit_percentage > item['profit']:
+                profit_percentage = (profit / sell_order)
+                if profit_percentage > 0.165:
                     functions.mouse_move_click(start_cord[0] + 265, start_cord[1] + 423)
                     buy(start_cord,buy_order)
                     time.sleep(0.2)
                     functions.mouse_move_click(btn_sell[0], btn_sell[1])
-
-                # functions.mouse_move_click(start_cord[0] + 265, start_cord[1] + 402)
-                # time.sleep(0.1)
                 sell(start_cord, sell_order)
             except:
-                # functions.mouse_move_click(start_cord[0] + 265, start_cord[1] + 402)
-                # time.sleep(0.1)
                 sell(start_cord)
                 
             time.sleep(0.15)
