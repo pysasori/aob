@@ -6,3 +6,5 @@ def kill_process_by_window_name(window_name):
         print(proc.info['name'])
         if proc.info['name'] == window_name:
             proc.kill()
+
+

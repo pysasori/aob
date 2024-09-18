@@ -12,6 +12,10 @@ def custom_exception():
     start_time = time.time()
     while True:
         functions.kill_process_by_window_name("Albion-Online.exe")
+        time.sleep(2)
+        functions.kill_process_by_window_name("AlbionLauncher.exe")
+        time.sleep(2)
+        functions.kill_process_by_window_name("Albion-Online_BE.exe")
         time.sleep(10)
 
         keyboard.press('win')
@@ -20,7 +24,7 @@ def custom_exception():
         time.sleep(0.1)
         keyboard.release('win')
 
-        time.sleep(25)
+        time.sleep(30)
         play = functions.checking_object_on_screen('templates_img/play.bmp')
         if play:
             functions.mouse_move_click(play[0], play[1])

@@ -16,12 +16,20 @@ if __name__ == "__main__":
         pass
     while True:
         try:
+            if not utils.queue_16_hours():
+                print('Мы спим Смотрите другую очередь')
+                time.sleep(60)
+                continue
             start_cord = functions.search_on_screen('templates_img/icon_game.bmp')
 
             functions.mouse_move_click(start_cord[0] + default_shift_start[0], start_cord[1] + default_shift_start[1])
 
             while True:
                 try:
+                    if not utils.queue_16_hours():
+                        print('Мы спим Смотрите другую очередь')
+                        time.sleep(60)
+                        continue
                     amount_lots = utils.update_amount_lots(start_cord, list_towarow_main)
 
                     list_towarow = list_towarow_main[:amount_lots]
