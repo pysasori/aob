@@ -29,7 +29,7 @@ if __name__ == "__main__":
                     if not utils.queue_16_hours():
                         print(f'Мы спим до {SLEEP_QUEUE} Смотрите другую очередь p2')
                         time.sleep(180)
-                        continue
+                        break
                     amount_lots = utils.update_amount_lots(start_cord, list_towarow_main)
 
                     list_towarow = list_towarow_main[:amount_lots]
