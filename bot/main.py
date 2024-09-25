@@ -17,8 +17,8 @@ if __name__ == "__main__":
     while True:
         try:
             if not utils.queue_16_hours():
-                print('Мы спим Смотрите другую очередь')
-                time.sleep(60)
+                print(f'Мы спим до {SLEEP_QUEUE} Смотрите другую очередь')
+                time.sleep(180)
                 continue
             start_cord = functions.search_on_screen('templates_img/icon_game.bmp')
 
@@ -27,8 +27,8 @@ if __name__ == "__main__":
             while True:
                 try:
                     if not utils.queue_16_hours():
-                        print('Мы спим Смотрите другую очередь')
-                        time.sleep(60)
+                        print(f'Мы спим до {SLEEP_QUEUE} Смотрите другую очередь p2')
+                        time.sleep(180)
                         continue
                     amount_lots = utils.update_amount_lots(start_cord, list_towarow_main)
 

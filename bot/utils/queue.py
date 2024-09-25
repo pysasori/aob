@@ -73,7 +73,7 @@ def queue_16_hours():
     # Вычисляем интервал для True и False
     start_hour = sleep_queue  # Стартовый час
     true_end_hour = (start_hour + 16) % 24  # Интервал True 16 часов
-    false_end_hour = (true_end_hour + 8) % 24  # Интервал False 8 часов
+    #false_end_hour = (true_end_hour + 8) % 24  # Интервал False 8 часов
 
     # Проверяем, попадает ли текущее время в диапазон True (16 часов)
     if start_hour <= current_hour < true_end_hour or (start_hour > true_end_hour and (current_hour >= start_hour or current_hour < true_end_hour)):
