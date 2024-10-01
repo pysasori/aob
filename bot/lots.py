@@ -3948,144 +3948,68 @@ giant_stag_4_0 = {
 }
 
 
-eu_0 = {'object': 'Siphoned Energy', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_1 = {'object': 'Major Poison Potion', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_2 = {'object': 'Pork Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_3 = {'object': 'Grandmaster�s Soul', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_4 = {'object': 'Major Gigantify Potion', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_5 = {'object': 'Poison Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_6 = {'object': 'Major Energy Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_7 = {'object': 'Invisibility Potion', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_8 = {'object': "Journeyman�'s Riding Horse", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_9 = {'object': 'Major Healing Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_10 = {'object': 'Pork Pie', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_11 = {'object': 'Beef Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_12 = {'object': 'Basic Fish Sauce', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 6}
-eu_13 = {'object': "Master's Hellgate Ritual (2v2 - Lethal)", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_14 = {'object': 'Grandmaster�s Relic', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_15 = {'object': 'Resistance Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_16 = {'object': 'Roast Pork', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_17 = {'object': 'Fancy Fish Sauce', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_18 = {'object': 'Goose Pie', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_19 = {'object': 'Dreamcatcher', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_20 = {'object': 'Corrupted Dungeon Map (Stalker/Slayer)', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_21 = {'object': 'Chicken Omelette', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_22 = {'object': 'Shadowheart', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_23 = {'object': "Master's Dungeon Map (Solo)", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_24 = {'object': 'Silver Mirror', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_25 = {'object': 'Holy Fetish', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_26 = {'object': 'Beef Sandwich', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_27 = {'object': 'Silver Candelabrum', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_28 = {'object': 'Healing Potion', 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_29 = {'object': 'Sticky Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_30 = {'object': "Expert's Dungeon Map (Solo)", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_31 = {'object': 'Beef Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
-eu_32 = {'object': 'Pork Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
-eu_33 = {'object': "Expert's Pickaxe", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_34 = {'object': 'Cleansing Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_35 = {'object': "Expert's Bag", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_36 = {'object': "Journeyman's Transport Ox", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_37 = {'object': 'Lowriver Crab', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_38 = {'object': "Expert's Royal Sigil", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_39 = {'object': 'Minor Calming Potion', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_40 = {'object': 'Wheat Soup', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 6}
-eu_41 = {'object': 'Calming Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_42 = {'object': "Journeyman's Bag", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_43 = {'object': 'Beastheart', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 5}
-eu_44 = {'object': 'Roasted Clearhaze Snapper', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_45 = {'object': 'Cabbage Seeds', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 5}
-eu_46 = {'object': 'Fortified Leather', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 10}
-eu_47 = {'object': "Master's Royal Sigil", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 4}
-eu_48 = {'object': "Adept's Bag", 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_49 = {'object': "Novice's Mule", 'tier': 'Tier 2', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_50 = {'object': 'Minor Hellfire Potion', 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 10}
-eu_51 = {'object': 'Redspring Eel Stew', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_52 = {'object': 'Swiftclaw', 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 8}
-eu_53 = {'object': 'Resistance Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 7}
-eu_54 = {'object': 'Fine Dawnfeather', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 12}
-eu_55 = {'object': "Expert's Skinning Knife", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_56 = {'object': "Adept's Cape", 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_57 = {'object': 'Minor Cleansing Potion', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_58 = {'object': 'Roasted Puremist Snapper', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_59 = {'object': 'Potato Seeds', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_60 = {'object': 'Carrot Seeds', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 7}
-eu_61 = {'object': 'Clearhaze Snapper', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 6}
-eu_62 = {'object': "Master's Skinning Knife", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_63 = {'object': 'Minor Gathering Potion', 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 5}
-eu_64 = {'object': 'Major Healing Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 3}
-eu_65 = {'object': "Master's Pickaxe", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_66 = {'object': 'Major Poison Potion', 'tier': 'Tier 8', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_67 = {'object': 'Rugged Dawnfeather', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_68 = {'object': 'Tornado in a Bottle', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_69 = {'object': "Master's Bag", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_70 = {'object': 'Excellent Dawnfeather', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 12}
-eu_71 = {'object': 'Bean Seeds', 'tier': 'Tier 2', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 4}
-eu_72 = {'object': 'Redspring Eel Stew', 'tier': 'Tier 6', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_73 = {'object': 'Roast Goose', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_74 = {'object': 'Mountainheart', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_75 = {'object': 'Uncommon Grandmaster�s Dungeon Map (Solo)', 'tier': 'Tier 7', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_76 = {'object': 'Deadwater Eel Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 12}
-eu_77 = {'object': "Expert's Transport Ox", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_78 = {'object': "Expert's Stone Hammer", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_79 = {'object': 'Gathering Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 11}
-eu_80 = {'object': 'Gosling', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_81 = {'object': 'Minor Tornado in a Bottle', 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_82 = {'object': 'Beef Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 3', 'profit': 0.15, 'time_update': 16}
-eu_83 = {'object': "Expert's Tracking Toolkit", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_84 = {'object': "Adept'�s Hunter Hood", 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_85 = {'object': "Expert's Cape", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_86 = {'object': "Adept's Fawn", 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 12}
-eu_87 = {'object': 'Deadwater Eel Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 12}
-eu_88 = {'object': 'Acid Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 4}
-eu_89 = {'object': "Journeyman's Mercenary Jacket", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 3}
-eu_90 = {'object': 'Berserk Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 14}
-eu_91 = {'object': 'Minor Cleansing Potion', 'tier': 'Tier 3', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 12}
-eu_92 = {'object': "Master's Cape", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_93 = {'object': 'Redspring Eel Stew', 'tier': 'Tier 6', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 8}
-eu_94 = {'object': "Master's Dungeon Map (Group)", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 4}
-eu_95 = {'object': 'Deadwater Eel Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_96 = {'object': "Adept's Assassin Jacket", 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_97 = {'object': 'Treeheart', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 12}
-eu_98 = {'object': "Expert's Bag", 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_99 = {'object': 'Pork Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 3', 'profit': 0.15, 'time_update': 2}
-eu_100 = {'object': 'Rockheart', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_101 = {'object': "Expert's Soldier Boots", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_102 = {'object': "Adept's Bag", 'tier': 'Tier 4', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
-eu_103 = {'object': "Master's Satchel of Insight", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_104 = {'object': "Master's Stone Hammer", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_105 = {'object': 'Adept�s Cape', 'tier': 'Tier 4', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
-eu_106 = {'object': 'Avalonian Beef Sandwich', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 4}
-eu_107 = {'object': 'Dusthole Crab Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 6}
-eu_108 = {'object': "Master's Tracking Toolkit", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_109 = {'object': 'Thunderfall Lurcher Sandwich', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 10}
-eu_110 = {'object': 'Pork Pie', 'tier': 'Tier 7', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_111 = {'object': "Expert's Assassin Jacket", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_112 = {'object': 'Adept�s Soldier Boots', 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_113 = {'object': 'Grandmaster�s Skinning Knife', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 12}
-eu_114 = {'object': "Expert's Mage Cowl", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 6}
-eu_115 = {'object': "Expert's Satchel of Insight", 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 10}
-eu_116 = {'object': 'Avalonian Pork Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 5}
-eu_117 = {'object': 'Special Fish Bait', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 4}
-eu_118 = {'object': 'Adept�s Mercenary Jacket', 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_119 = {'object': "Journeyman's Mercenary Hood", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_120 = {'object': "Adept'�s Mistcaller", 'tier': 'Tier 4', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
-eu_121 = {'object': "Master's Cleric Robe", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_122 = {'object': 'Adept�s Cleric Robe', 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_123 = {'object': 'Roasted Clearhaze Snapper', 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 6}
-eu_124 = {'object': "Expert's Mercenary Jacket", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 6}
-eu_125 = {'object': "Expert's Soldier Helmet", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 12}
-eu_126 = {'object': "Expert's Cape", 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
-eu_127 = {'object': "Master's Transport Ox", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 16}
-eu_128 = {'object': "Expert's Hunter Hood", 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 11}
-eu_129 = {'object': "Master's Cleric Cowl", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
-eu_130 = {'object': "Expert's Riding Horse", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_131 = {'object': "Adept's Mage Cowl", 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 8}
-eu_132 = {'object': "Journeyman's Bow", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_133 = {'object': "Journeyman�'s Scholar Robe", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 13}
-eu_134 = {'object': 'Major Resistance Potion', 'tier': 'Tier 7', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 12}
-eu_135 = {'object': "Expert's Cleric Cowl", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 6}
-eu_136 = {'object': "Expert's Scholar Cowl", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 8}
-eu_137 = {'object': "Expert's Assassin Hood", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 11}
+
+europe_0 = {'object': 'Siphoned Energy', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_1 = {'object': 'Beef Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_2 = {'object': 'Hardened Leather', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_3 = {'object': 'Poison Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_4 = {'object': 'Journeyman’s Riding Horse', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_5 = {'object': "Elder's Rune", 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_6 = {'object': 'Major Poison Potion', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_7 = {'object': 'Mutton Stew', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_8 = {'object': 'Major Healing Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_9 = {'object': 'Major Resistance Potion', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_10 = {'object': 'Pork Pie', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_11 = {'object': 'Potato Salad', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_12 = {'object': 'Invisibility Potion', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_13 = {'object': 'Major Gigantify Potion', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_14 = {'object': "Master's Hellgate Ritual (2v2 - Lethal)", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_15 = {'object': 'Invisibility Potion', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_16 = {'object': 'Major Energy Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_17 = {'object': 'Roast Pork', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_18 = {'object': "Adept'’s Bag", 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_19 = {'object': 'Healing Potion', 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_20 = {'object': "Elder's Dungeon Map (Solo)", 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_21 = {'object': "Elder's Soul", 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_22 = {'object': 'Shadowheart', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_23 = {'object': 'Beef Sandwich', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_24 = {'object': 'Beef Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
+europe_25 = {'object': 'Beef Sandwich', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_26 = {'object': 'Beef Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
+europe_27 = {'object': 'River Sturgeon', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_28 = {'object': 'River Sturgeon', 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_29 = {'object': 'Sticky Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_30 = {'object': 'Pork Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
+europe_31 = {'object': "Adept'’s Royal Sigil", 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_32 = {'object': "Adept'’s Cape", 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_33 = {'object': 'Grandmaster’s Dungeon Map (Solo)', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_34 = {'object': 'Grandmaster’s Dungeon Map (Solo)', 'tier': 'Tier 7', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_35 = {'object': 'Exceptional Pine Planks', 'tier': 'Tier 4', 'enchantment': 'Enchantment 3', 'profit': 0.15, 'time_update': 2}
+europe_36 = {'object': 'Resistance Potion', 'tier': 'Tier 5', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
+europe_37 = {'object': "Expert's Royal Sigil", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_38 = {'object': 'Roasted Clearhaze Snapper', 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_39 = {'object': "Elder's Relic", 'tier': 'Tier 8', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_40 = {'object': "Expert's Bag", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_41 = {'object': "Journeyman's Transport Ox", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_42 = {'object': "Adept'’s Bag", 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
+europe_43 = {'object': 'Beef Stew', 'tier': 'Tier 8', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
+europe_44 = {'object': "Master's Royal Sigil", 'tier': 'Tier 6', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_45 = {'object': 'Minor Tornado in a Bottle', 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_46 = {'object': "Novice's Mule", 'tier': 'Tier 2', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_47 = {'object': 'Greenriver Eel', 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_48 = {'object': "Adept'’s Skinning Knife", 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_49 = {'object': 'Pork Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
+europe_50 = {'object': 'Adept’s Riding Horse', 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_51 = {'object': 'Pork Omelette', 'tier': 'Tier 7', 'enchantment': 'Enchantment 2', 'profit': 0.15, 'time_update': 2}
+europe_52 = {'object': "Journeyman's Bag", 'tier': 'Tier 3', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_53 = {'object': "Expert's Skinning Knife", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_54 = {'object': 'Beastheart', 'tier': 'Tier 1', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_55 = {'object': "Adept's Stone Hammer", 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_56 = {'object': "Adept's Axe", 'tier': 'Tier 4', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_57 = {'object': 'Poison Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
+europe_58 = {'object': 'Adept’s Cape', 'tier': 'Tier 4', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
+europe_59 = {'object': "Expert's Pickaxe", 'tier': 'Tier 5', 'enchantment': 'Enchantment 0', 'profit': 0.15, 'time_update': 2}
+europe_60 = {'object': 'Major Healing Potion', 'tier': 'Tier 6', 'enchantment': 'Enchantment 1', 'profit': 0.15, 'time_update': 2}
 
 
 
@@ -4670,27 +4594,24 @@ fishing_5_0,
 
 
 
-
-#config_europe_base_2 = [tracking_toolkit_5_0, bag_5_0, bag_2_0, armored_horse_5_0, transport_ox_5_0, cleric_cowl_4_0, stone_hammer_4_0, soldier_helmet_4_0, skinning_knife_4_0, pickaxe_3_0, axe_5_0, bloodletter_4_0, soldier_boots_4_1, cleric_robe_4_1, tracking_toolkit_4_0, cape_4_1, soldier_boots_4_0, stone_hammer_3_0, sickle_6_0, assassin_jacket_4_0, pickaxe_4_0, axe_3_0, riding_horse_4_0, bag_4_0, riding_horse_3_0, bag_4_1, sickle_4_0, bloodletter_4_1, hunter_hood_4_0, bag_5_1, axe_4_0, transport_ox_3_0, mercenary_jacket_4_1, sickle_5_0, bag_3_0, mercenary_jacket_4_0, transport_ox_4_0, dual_swords_4_0, mule_2_0, cape_5_0, skinning_knife_5_0,  bag_6_0, cape_4_0, cleric_robe_4_0, pickaxe_5_0, ]
-#config_europe_1_part_2 = [hunter_shoes_4_1, sickle_3_0, lymhurst_cape_4_0, druidic_staff_4_0, scholar_cowl_4_2, cursed_staff_4_1, hunter_hood_5_0, tracking_toolkit_6_0, broadsword_2_0, soldier_armor_2_0, knight_armor_5_0, brawler_gloves_4_1, soldier_helmet_5_0, assassin_shoes_5_0, battleaxe_3_0, brawler_gloves_2_0, assassin_shoes_4_0, hunter_shoes_4_0, knight_boots_4_0, martlock_cape_4_0, scholar_cowl_4_1, spiked_gauntlets_5_0, cape_3_0, battle_bracers_4_1, hunter_hood_5_1, pickaxe_3_0, dagger_4_0, assassin_hood_4_1, battle_bracers_5_0, brawler_gloves_4_0,  fishing_rod_4_0, graveguard_armor_4_0, mercenary_jacket_4_1, cape_6_0, nature_staff_3_0, mercenary_hood_4_0, ]
-#config_europe_2_part_2 = [druidic_staff_4_1,battle_bracers_4_0,mercenary_shoes_5_0,great_frost_staff_4_0,brawler_gloves_3_0,fire_staff_3_0,assassin_jacket_4_2,scholar_cowl_4_0,tracking_toolkit_3_0,cursed_staff_4_0,mercenary_shoes_4_1,mercenary_jacket_4_0,stone_hammer_2_0,soldier_armor_3_0,battleaxe_4_1,skinning_knife_3_0,hunter_shoes_6_0,	hunter_hood_4_0,fire_staff_4_0,bow_3_0,fire_staff_4_2,warbow_4_1,guardian_boots_6_0,cape_4_2,mercenary_jacket_4_2,fire_staff_2_0,hunter_jacket_4_0,mercenary_jacket_3_0,soldier_boots_4_2,prowling_staff_3_0,mace_3_0,stone_hammer_5_0,mage_robe_4_0,double_bladed_staff_4_0,axe_6_0,soldier_boots_2_0,stalker_jacket_4_0,]
-#config_europe_3_part_2 = [double_bladed_staff_5_0,brawler_gloves_5_0,fire_staff_5_0,graveguard_boots_4_0,cursed_staff_3_0,knight_armor_4_0,broadsword_4_0,knight_boots_4_1,spear_4_0,dagger_3_0,scholar_robe_4_0,stalker_jacket_4_1,hammer_3_0,spear_3_0,soldier_helmet_3_0,dual_swords_4_1,assassin_hood_4_0,soldier_boots_3_0,cleric_robe_5_0,double_bladed_staff_4_1,spear_4_1,claymore_4_0,soldier_helmet_4_0,battleaxe_4_0,mercenary_shoes_4_0,mercenary_jacket_5_0,skinning_knife_6_0,frost_staff_3_0,frost_staff_4_0,fire_staff_4_1,mage_robe_6_0,glacial_staff_4_0,cleric_cowl_4_0,spiked_gauntlets_4_0,nature_staff_4_0,claws_4_0,boltcasters_4_0,]
-eu_base = [eu_0, eu_1, eu_2, eu_3, eu_4, eu_5, eu_6, eu_7, eu_8, eu_9, eu_10, eu_11, eu_12, eu_13, eu_14, eu_15, eu_16, eu_17, eu_18, eu_19, eu_20, eu_21, eu_22, eu_23, eu_24, eu_25, eu_26, eu_27, eu_28, eu_29, eu_30, eu_31, eu_32, eu_33, eu_34, eu_35, eu_36, eu_37, eu_38, eu_39, eu_40, eu_41, eu_42, eu_43, eu_44, eu_45, eu_46, eu_47, eu_48, eu_49, ]
-eu_part_1 = [eu_108, eu_91, eu_78, eu_103, eu_107, eu_129, eu_69, eu_130, eu_81, eu_137, eu_73, eu_52, eu_80, eu_75, eu_67, eu_120, eu_76, eu_122, eu_68, eu_87, eu_104, eu_88, eu_90, eu_123, eu_111, eu_126, eu_71, eu_96, eu_119, ]
-eu_part_2 = [eu_102, eu_100, eu_53, eu_54, eu_95, eu_66, eu_61, eu_115, eu_93, eu_56, eu_101, eu_89, eu_121, eu_82, eu_65, eu_72, eu_98, eu_83, eu_114, eu_97, eu_62, eu_134, eu_55, eu_58, eu_57, eu_128, eu_117, eu_59, eu_94, eu_112,]
-eu_part_3 = [eu_118, eu_131, eu_132, eu_113, eu_110, eu_105, eu_106, eu_127, eu_85, eu_86, eu_136, eu_92, eu_77, eu_84, eu_125, eu_63, eu_79, eu_74, eu_133, eu_109, eu_64, eu_124, eu_116, eu_70, eu_99, eu_135, eu_60, ]
-
-eu_part_09_24_base = eu_25_09_low_price = [bag_3_0, bag_4_0, skin_4_0, cape_4_0,stone_4_0, pickaxe_4_0, tracking_4_0, pickaxe_3_0,  bag_4_1, eu_25_09_low_price_0, eu_25_09_low_price_1, eu_25_09_low_price_2, eu_25_09_low_price_3, eu_25_09_low_price_4, eu_25_09_low_price_5, eu_25_09_low_price_6, eu_25_09_low_price_7, eu_25_09_low_price_8, eu_25_09_low_price_9, eu_25_09_low_price_10, eu_25_09_low_price_11, eu_25_09_low_price_12, eu_25_09_low_price_13, eu_25_09_low_price_14, eu_25_09_low_price_15, eu_25_09_low_price_16, eu_25_09_low_price_17, eu_25_09_low_price_18, eu_25_09_low_price_19, eu_25_09_low_price_20, eu_25_09_low_price_21, eu_25_09_low_price_22, eu_25_09_low_price_23, eu_25_09_low_price_24, eu_25_09_low_price_25, eu_25_09_low_price_26, eu_25_09_low_price_27, eu_25_09_low_price_28, eu_25_09_low_price_29, eu_25_09_low_price_30, eu_25_09_low_price_31, eu_25_09_low_price_32, eu_25_09_low_price_33, eu_25_09_low_price_34, eu_25_09_low_price_35, eu_25_09_low_price_36, eu_25_09_low_price_37, eu_25_09_low_price_38, eu_25_09_low_price_39, eu_25_09_low_price_40, eu_25_09_low_price_41, eu_25_09_low_price_42, eu_25_09_low_price_43, eu_25_09_low_price_44, eu_25_09_low_price_45, eu_25_09_low_price_46, eu_25_09_low_price_47, eu_25_09_low_price_48, eu_25_09_low_price_49, eu_25_09_low_price_50, eu_25_09_low_price_51, eu_25_09_low_price_52, eu_25_09_low_price_53, eu_25_09_low_price_54, eu_25_09_low_price_55, eu_25_09_low_price_56, eu_25_09_low_price_57, eu_25_09_low_price_58, eu_25_09_low_price_59, eu_25_09_low_price_60, eu_25_09_low_price_61, eu_25_09_low_price_62, eu_25_09_low_price_63, eu_25_09_low_price_64, eu_25_09_low_price_65, eu_25_09_low_price_66, eu_25_09_low_price_67, eu_25_09_low_price_68, eu_25_09_low_price_69, eu_25_09_low_price_70, eu_25_09_low_price_71, eu_25_09_low_price_72, eu_25_09_low_price_73, eu_25_09_low_price_74, eu_25_09_low_price_75, eu_25_09_low_price_76, eu_25_09_low_price_77, eu_25_09_low_price_78, eu_25_09_low_price_79, eu_25_09_low_price_80, eu_25_09_low_price_81, eu_25_09_low_price_82, eu_25_09_low_price_83, eu_25_09_low_price_84, eu_25_09_low_price_85, eu_25_09_low_price_86, eu_25_09_low_price_87, eu_25_09_low_price_88, eu_25_09_low_price_89, eu_25_09_low_price_90, eu_25_09_low_price_91, eu_25_09_low_price_92, eu_25_09_low_price_93, eu_25_09_low_price_94, eu_25_09_low_price_95, eu_25_09_low_price_96, eu_25_09_low_price_97, eu_25_09_low_price_98, eu_25_09_low_price_99, eu_25_09_low_price_100, eu_25_09_low_price_101, eu_25_09_low_price_102, eu_25_09_low_price_103, eu_25_09_low_price_104, eu_25_09_low_price_105, eu_25_09_low_price_106, eu_25_09_low_price_107, eu_25_09_low_price_108, eu_25_09_low_price_109, eu_25_09_low_price_110, eu_25_09_low_price_111, eu_25_09_low_price_112, eu_25_09_low_price_113, eu_25_09_low_price_114, eu_25_09_low_price_115, eu_25_09_low_price_116, eu_25_09_low_price_117, eu_25_09_low_price_118, eu_25_09_low_price_119, eu_25_09_low_price_120, eu_25_09_low_price_121, eu_25_09_low_price_122, eu_25_09_low_price_123, eu_25_09_low_price_124, eu_25_09_low_price_125, eu_25_09_low_price_126, eu_25_09_low_price_127, eu_25_09_low_price_128, eu_25_09_low_price_129, eu_25_09_low_price_130, eu_25_09_low_price_131, eu_25_09_low_price_132, eu_25_09_low_price_133, eu_25_09_low_price_134, eu_25_09_low_price_135, eu_25_09_low_price_136, eu_25_09_low_price_137, eu_25_09_low_price_138, eu_25_09_low_price_139, eu_25_09_low_price_140, eu_25_09_low_price_141, eu_25_09_low_price_142, eu_25_09_low_price_143, eu_25_09_low_price_144, eu_25_09_low_price_145, eu_25_09_low_price_146, eu_25_09_low_price_147, eu_25_09_low_price_148, eu_25_09_low_price_149, eu_25_09_low_price_150, eu_25_09_low_price_151, eu_25_09_low_price_152, eu_25_09_low_price_153, eu_25_09_low_price_154, eu_25_09_low_price_155, eu_25_09_low_price_156, eu_25_09_low_price_157, eu_25_09_low_price_158, eu_25_09_low_price_159, eu_25_09_low_price_160, eu_25_09_low_price_161, eu_25_09_low_price_162, eu_25_09_low_price_163, eu_25_09_low_price_164, eu_25_09_low_price_165, eu_25_09_low_price_166, eu_25_09_low_price_167, eu_25_09_low_price_168, eu_25_09_low_price_169, eu_25_09_low_price_170, eu_25_09_low_price_171, eu_25_09_low_price_172, eu_25_09_low_price_173, eu_25_09_low_price_174, eu_25_09_low_price_175, eu_25_09_low_price_176, eu_25_09_low_price_177, eu_25_09_low_price_178, eu_25_09_low_price_179, eu_25_09_low_price_180, eu_25_09_low_price_181, eu_25_09_low_price_182, eu_25_09_low_price_183, eu_25_09_low_price_184, eu_25_09_low_price_185, eu_25_09_low_price_186, eu_25_09_low_price_187, eu_25_09_low_price_188, eu_25_09_low_price_189, eu_25_09_low_price_190, eu_25_09_low_price_191, eu_25_09_low_price_192, eu_25_09_low_price_193, eu_25_09_low_price_194, ]
+config_dop_1 = [europe_0, europe_1, europe_2, europe_3, europe_4, europe_5, europe_6, europe_7, europe_8, europe_9, europe_10, europe_11, europe_12, europe_13, europe_14, europe_15, europe_16, europe_17, europe_18, europe_19, europe_20, europe_21, europe_22, europe_23, europe_24, europe_25, europe_26, europe_27, europe_28, europe_29, europe_30, europe_31, europe_32, europe_33, europe_34, europe_35, europe_36, europe_37, europe_38, europe_39, europe_40, europe_41, europe_42, europe_43, europe_44, europe_45, europe_46, europe_47, europe_48, europe_49, europe_50, europe_51, europe_52, europe_53, europe_54, europe_55, europe_56, europe_57, europe_58, europe_59, europe_60 ]
+config_dop_2 = [tracking_toolkit_5_0, bag_5_0, bag_2_0, armored_horse_5_0, transport_ox_5_0, cleric_cowl_4_0, stone_hammer_4_0, soldier_helmet_4_0, skinning_knife_4_0, pickaxe_3_0, axe_5_0, bloodletter_4_0, soldier_boots_4_1, cleric_robe_4_1, tracking_toolkit_4_0, cape_4_1, soldier_boots_4_0, stone_hammer_3_0, sickle_6_0, assassin_jacket_4_0, pickaxe_4_0, axe_3_0, riding_horse_4_0, bag_4_0, riding_horse_3_0, bag_4_1, sickle_4_0, bloodletter_4_1, hunter_hood_4_0, bag_5_1, axe_4_0, transport_ox_3_0, mercenary_jacket_4_1, sickle_5_0, bag_3_0, mercenary_jacket_4_0, transport_ox_4_0, dual_swords_4_0, mule_2_0, cape_5_0, skinning_knife_5_0,  bag_6_0, cape_4_0, cleric_robe_4_0, pickaxe_5_0, ]
 
 
-top_start_items = [bag_3_0, bag_4_0, skin_4_0, cape_4_0,stone_4_0, pickaxe_4_0, tracking_4_0, pickaxe_3_0,  bag_4_1, pickaxe_5_0, skin_5_0,cape_4_1, cape_5_0, ox_3_0, ox_4_0, bag_5_0, stone_5_0, stone_6_0, tracking_5_0, horse_4_0]
+# Шмотки, Результат не понравился, мб еще пощупать
+config_europe_base_2 = [tracking_toolkit_5_0, bag_5_0, bag_2_0, armored_horse_5_0, transport_ox_5_0, cleric_cowl_4_0, stone_hammer_4_0, soldier_helmet_4_0, skinning_knife_4_0, pickaxe_3_0, axe_5_0, bloodletter_4_0, soldier_boots_4_1, cleric_robe_4_1, tracking_toolkit_4_0, cape_4_1, soldier_boots_4_0, stone_hammer_3_0, sickle_6_0, assassin_jacket_4_0, pickaxe_4_0, axe_3_0, riding_horse_4_0, bag_4_0, riding_horse_3_0, bag_4_1, sickle_4_0, bloodletter_4_1, hunter_hood_4_0, bag_5_1, axe_4_0, transport_ox_3_0, mercenary_jacket_4_1, sickle_5_0, bag_3_0, mercenary_jacket_4_0, transport_ox_4_0, dual_swords_4_0, mule_2_0, cape_5_0, skinning_knife_5_0,  bag_6_0, cape_4_0, cleric_robe_4_0, pickaxe_5_0, ]
+config_europe_1_part_2 = [hunter_shoes_4_1, sickle_3_0, lymhurst_cape_4_0, druidic_staff_4_0, scholar_cowl_4_2, cursed_staff_4_1, hunter_hood_5_0, tracking_toolkit_6_0, broadsword_2_0, soldier_armor_2_0, knight_armor_5_0, brawler_gloves_4_1, soldier_helmet_5_0, assassin_shoes_5_0, battleaxe_3_0, brawler_gloves_2_0, assassin_shoes_4_0, hunter_shoes_4_0, knight_boots_4_0, martlock_cape_4_0, scholar_cowl_4_1, spiked_gauntlets_5_0, cape_3_0, battle_bracers_4_1, hunter_hood_5_1, pickaxe_3_0, dagger_4_0, assassin_hood_4_1, battle_bracers_5_0, brawler_gloves_4_0,  fishing_rod_4_0, graveguard_armor_4_0, mercenary_jacket_4_1, cape_6_0, nature_staff_3_0, mercenary_hood_4_0, ]
+config_europe_2_part_2 = [druidic_staff_4_1,battle_bracers_4_0,mercenary_shoes_5_0,great_frost_staff_4_0,brawler_gloves_3_0,fire_staff_3_0,assassin_jacket_4_2,scholar_cowl_4_0,tracking_toolkit_3_0,cursed_staff_4_0,mercenary_shoes_4_1,mercenary_jacket_4_0,stone_hammer_2_0,soldier_armor_3_0,battleaxe_4_1,skinning_knife_3_0,hunter_shoes_6_0,	hunter_hood_4_0,fire_staff_4_0,bow_3_0,fire_staff_4_2,warbow_4_1,guardian_boots_6_0,cape_4_2,mercenary_jacket_4_2,fire_staff_2_0,hunter_jacket_4_0,mercenary_jacket_3_0,soldier_boots_4_2,prowling_staff_3_0,mace_3_0,stone_hammer_5_0,mage_robe_4_0,double_bladed_staff_4_0,axe_6_0,soldier_boots_2_0,stalker_jacket_4_0,]
+config_europe_3_part_2 = [double_bladed_staff_5_0,brawler_gloves_5_0,fire_staff_5_0,graveguard_boots_4_0,cursed_staff_3_0,knight_armor_4_0,broadsword_4_0,knight_boots_4_1,spear_4_0,dagger_3_0,scholar_robe_4_0,stalker_jacket_4_1,hammer_3_0,spear_3_0,soldier_helmet_3_0,dual_swords_4_1,assassin_hood_4_0,soldier_boots_3_0,cleric_robe_5_0,double_bladed_staff_4_1,spear_4_1,claymore_4_0,soldier_helmet_4_0,battleaxe_4_0,mercenary_shoes_4_0,mercenary_jacket_5_0,skinning_knife_6_0,frost_staff_3_0,frost_staff_4_0,fire_staff_4_1,mage_robe_6_0,glacial_staff_4_0,cleric_cowl_4_0,spiked_gauntlets_4_0,nature_staff_4_0,claws_4_0,boltcasters_4_0,]
+
+
+#Лучший вариант на 01.10.24 Много айтемов, плинаирую сразу 2м
+eu_part_09_24_base = eu_25_09_low_price = [bag_3_0, bag_4_0, skin_4_0, cape_4_0,stone_4_0, pickaxe_4_0, tracking_4_0, pickaxe_3_0,  bag_4_1, eu_25_09_low_price_0, eu_25_09_low_price_1, eu_25_09_low_price_2, eu_25_09_low_price_3, eu_25_09_low_price_4, eu_25_09_low_price_5, eu_25_09_low_price_6, eu_25_09_low_price_7, eu_25_09_low_price_8, eu_25_09_low_price_9, eu_25_09_low_price_10, eu_25_09_low_price_11, eu_25_09_low_price_12, eu_25_09_low_price_13, eu_25_09_low_price_14, eu_25_09_low_price_15, eu_25_09_low_price_16, eu_25_09_low_price_17, eu_25_09_low_price_18, eu_25_09_low_price_19, eu_25_09_low_price_20, eu_25_09_low_price_21, eu_25_09_low_price_22, eu_25_09_low_price_23, eu_25_09_low_price_24, eu_25_09_low_price_25, eu_25_09_low_price_26, eu_25_09_low_price_27, eu_25_09_low_price_28, eu_25_09_low_price_29, eu_25_09_low_price_30, eu_25_09_low_price_31, eu_25_09_low_price_32, eu_25_09_low_price_33, eu_25_09_low_price_34, eu_25_09_low_price_35, eu_25_09_low_price_36, eu_25_09_low_price_37, eu_25_09_low_price_38, eu_25_09_low_price_39, eu_25_09_low_price_40, eu_25_09_low_price_41, eu_25_09_low_price_42, eu_25_09_low_price_43, eu_25_09_low_price_44, eu_25_09_low_price_45, eu_25_09_low_price_46, eu_25_09_low_price_47, eu_25_09_low_price_48, eu_25_09_low_price_49, eu_25_09_low_price_50, eu_25_09_low_price_51, eu_25_09_low_price_52, eu_25_09_low_price_53, eu_25_09_low_price_54, eu_25_09_low_price_55, eu_25_09_low_price_56, eu_25_09_low_price_57, eu_25_09_low_price_58, eu_25_09_low_price_59, eu_25_09_low_price_60, eu_25_09_low_price_61, eu_25_09_low_price_62, eu_25_09_low_price_63, eu_25_09_low_price_64, eu_25_09_low_price_65, eu_25_09_low_price_66, eu_25_09_low_price_67, eu_25_09_low_price_68, eu_25_09_low_price_69, eu_25_09_low_price_70, eu_25_09_low_price_71, eu_25_09_low_price_72, eu_25_09_low_price_73, eu_25_09_low_price_74, eu_25_09_low_price_75, eu_25_09_low_price_76, eu_25_09_low_price_77, eu_25_09_low_price_78, eu_25_09_low_price_79, eu_25_09_low_price_80, eu_25_09_low_price_81, eu_25_09_low_price_82, eu_25_09_low_price_83, eu_25_09_low_price_84, eu_25_09_low_price_85, eu_25_09_low_price_86, eu_25_09_low_price_87, eu_25_09_low_price_88, eu_25_09_low_price_89, eu_25_09_low_price_90, eu_25_09_low_price_91, eu_25_09_low_price_92, eu_25_09_low_price_93, eu_25_09_low_price_94, eu_25_09_low_price_95, eu_25_09_low_price_96, eu_25_09_low_price_97, eu_25_09_low_price_98, eu_25_09_low_price_99, eu_25_09_low_price_100, eu_25_09_low_price_101, eu_25_09_low_price_102, eu_25_09_low_price_103, eu_25_09_low_price_104, eu_25_09_low_price_105, eu_25_09_low_price_106, eu_25_09_low_price_107, eu_25_09_low_price_108, eu_25_09_low_price_109, eu_25_09_low_price_110, eu_25_09_low_price_111, eu_25_09_low_price_112, eu_25_09_low_price_113, eu_25_09_low_price_114, eu_25_09_low_price_115, eu_25_09_low_price_116, eu_25_09_low_price_117, eu_25_09_low_price_118, eu_25_09_low_price_119, eu_25_09_low_price_120, eu_25_09_low_price_121, eu_25_09_low_price_122, eu_25_09_low_price_123, eu_25_09_low_price_124, eu_25_09_low_price_125, eu_25_09_low_price_126, eu_25_09_low_price_127, eu_25_09_low_price_128, eu_25_09_low_price_129, eu_25_09_low_price_130, eu_25_09_low_price_131, eu_25_09_low_price_132, eu_25_09_low_price_133, eu_25_09_low_price_134, eu_25_09_low_price_135, eu_25_09_low_price_136, eu_25_09_low_price_137, eu_25_09_low_price_138, eu_25_09_low_price_139, eu_25_09_low_price_140, eu_25_09_low_price_141, eu_25_09_low_price_142, eu_25_09_low_price_143, eu_25_09_low_price_144, eu_25_09_low_price_145, eu_25_09_low_price_146, eu_25_09_low_price_147, eu_25_09_low_price_148, eu_25_09_low_price_149, eu_25_09_low_price_150, eu_25_09_low_price_151, eu_25_09_low_price_152, eu_25_09_low_price_153, eu_25_09_low_price_154, eu_25_09_low_price_155, eu_25_09_low_price_156, eu_25_09_low_price_157, eu_25_09_low_price_158, eu_25_09_low_price_159, eu_25_09_low_price_160, eu_25_09_low_price_161, eu_25_09_low_price_162, eu_25_09_low_price_163, eu_25_09_low_price_164, eu_25_09_low_price_165, eu_25_09_low_price_166, eu_25_09_low_price_167, eu_25_09_low_price_168, eu_25_09_low_price_169, eu_25_09_low_price_170, eu_25_09_low_price_171, eu_25_09_low_price_172, eu_25_09_low_price_173, eu_25_09_low_price_174, eu_25_09_low_price_175, eu_25_09_low_price_176, eu_25_09_low_price_177, eu_25_09_low_price_178, eu_25_09_low_price_179, eu_25_09_low_price_180, eu_25_09_low_price_181, eu_25_09_low_price_182, eu_25_09_low_price_183, eu_25_09_low_price_184, eu_25_09_low_price_185, eu_25_09_low_price_186, eu_25_09_low_price_187, eu_25_09_low_price_188, eu_25_09_low_price_189, eu_25_09_low_price_190, eu_25_09_low_price_191, eu_25_09_low_price_192, eu_25_09_low_price_193, eu_25_09_low_price_194, pickaxe_5_0, skin_5_0,cape_4_1, cape_5_0, ox_3_0, ox_4_0, bag_5_0, stone_5_0, stone_6_0, tracking_5_0, horse_4_0]
+
+# Не плохая связка на 01.10.24 дает около ляма, на АЕ Европе ганяет
+eu_dop_base_old = config_dop_1 + config_dop_2
 
 
 
-
-eu_config_base =  top_start_items + eu_base
-eu_config_1 = eu_part_1
-eu_config_2 = eu_part_2
-eu_config_3 =  eu_part_3
 
 
