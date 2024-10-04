@@ -95,14 +95,14 @@ if __name__ == "__main__":
                                     utils.buy_lots(start_cord, buy_order)
                                 elif amount_sell > 2:
                                     utils.dell_first_buy_order(start_cord)
-                                elif int(buy_lust_time) < (18 - int(item['time_update'])):
+                                elif int(buy_lust_time) < (23 - int(item['time_update'])):
                                     utils.dell_first_buy_order(start_cord)
                                     utils.buy_lots(start_cord, buy_order)
                             except Exception as e:
                                 print(e, '86')
 
                             try:
-                                if int(sell_lust_time) < (17 - int(item['time_update'])):
+                                if int(sell_lust_time) < (23 - int(item['time_update'])):
                                     utils.dell_first_sell_order(start_cord)
                                     time.sleep(0.7)
                                     ### Получаем товар в рюкзак если он есть
