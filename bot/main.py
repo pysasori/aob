@@ -76,18 +76,18 @@ if __name__ == "__main__":
 
                             ### Количество ордеров покупок
                             amount_buy = int(utils.amount_buy_items(start_cord))
-                            print('amount_buy', amount_buy)
+                            #print('amount_buy', amount_buy)
 
                             ### Количество ордеров продажи
                             amount_sell = int(utils.amount_sell_items(start_cord))
-                            print('amount_sell', amount_sell)
+                            #print('amount_sell', amount_sell)
 
 
                             ### Проверка времени ласт ордера продажи
                             buy_lust_time, sell_lust_time = utils.check_orders_lust_time(start_cord)
 
-                            print('buy_lust_time', buy_lust_time)
-                            print('sell_lust_time', sell_lust_time)
+                            #print('buy_lust_time', buy_lust_time)
+                            #print('sell_lust_time', sell_lust_time)
                             random_delay()
 
                             try:
@@ -120,6 +120,7 @@ if __name__ == "__main__":
                             ### Получаем товар в рюкзак если он есть
                             utils.lots_was_bought(start_cord)
                             time.sleep(0.35)
+                            random_delay()
 
                             ### BASE MODULE
                             utils.sell_and_buy_together(start_cord, item)
