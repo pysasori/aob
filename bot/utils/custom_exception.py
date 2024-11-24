@@ -11,12 +11,12 @@ from functions.random_delay import random_delay
 def custom_exception():
     start_time = time.time()
     while True:
-        # functions.kill_process_by_window_name("Albion-Online.exe")
-        # time.sleep(2)
-        # functions.kill_process_by_window_name("AlbionLauncher.exe")
-        # time.sleep(2)
-        # functions.kill_process_by_window_name("Albion-Online_BE.exe")
-        # time.sleep(10)
+        functions.kill_process_by_window_name("Albion-Online.exe")
+        time.sleep(2)
+        functions.kill_process_by_window_name("AlbionLauncher.exe")
+        time.sleep(2)
+        functions.kill_process_by_window_name("Albion-Online_BE.exe")
+        time.sleep(10)
 
         keyboard.press('win')
         time.sleep(0.1)
