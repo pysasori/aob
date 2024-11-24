@@ -21,7 +21,7 @@ def lots_was_bought(start_cord: tuple):
         time.sleep(0.3)
         take_all = functions.search_on_screen(
             'templates_img/take_all.bmp',
-            0.95,
+            0.85,
             [
                 start_cord[0],
                 start_cord[1],
