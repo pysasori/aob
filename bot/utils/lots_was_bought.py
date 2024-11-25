@@ -18,7 +18,7 @@ def lots_was_bought(start_cord: tuple):
     if lots_was_bought:
         functions.mouse_move_click(lots_was_bought[0], lots_was_bought[1])
 
-        time.sleep(0.3)
+        time.sleep(1.5)
         take_all = functions.search_on_screen(
             'templates_img/take_all.bmp',
             0.85,
