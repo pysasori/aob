@@ -26,8 +26,8 @@ def amount_buy_items(start_cord):
     check amount items in buy  orders
     """
 
-    mouse_move_click(start_cord[0] + 1033, start_cord[1] + 468)
-    mouse_long_click()
+    # mouse_move_click(start_cord[0] + 1033, start_cord[1] + 468)
+    # mouse_long_click()
 
     cords = [start_cord[0] + 700, start_cord[1] + 433, 350, 50]
     for i in range(4):
@@ -45,8 +45,8 @@ def amount_sell_items(start_cord):
     check amount items in sell  orders
     """
 
-    mouse_move_click(start_cord[0] + 1033, start_cord[1] + 468)
-    mouse_long_click()
+    # mouse_move_click(start_cord[0] + 1033, start_cord[1] + 468)
+    # mouse_long_click()
 
     cords = [start_cord[0] + 700, start_cord[1] + 714, 350, 50]
     for i in range(4):

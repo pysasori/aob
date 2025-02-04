@@ -1,5 +1,5 @@
 from .choice_product import choice_product
-from .get_prices import get_prices
+from .get_prices import get_prices, scan_price
 # from .cancel_orders import cancel_orders
 from .lots_was_bought import lots_was_bought
 from .sell_lots import sell_lots

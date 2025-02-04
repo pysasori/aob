@@ -43,7 +43,7 @@ def sell_order(start_cord, sell_order=None):
 
 
 def sell_lots(start_cord, price) -> int:
-    functions.mouse_move_click(start_cord[0] + my_sell[0], start_cord[1] + my_sell[1])
+    # functions.mouse_move_click(start_cord[0] + my_sell[0], start_cord[1] + my_sell[1])
     amount = 0
     while True:
         btn_sell = functions.search_on_screen(

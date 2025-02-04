@@ -2,12 +2,13 @@ import time
 
 import bot.functions as functions
 from bot.config import *
+from main import interaction
 from .get_prices import scan_price
 from .buy_lots import buy_order as buy
 from .sell_lots import sell_order as sell
 
 
-def sell_and_buy_together(start_cord, item):
+def sell_and_buy_together(start_cord):
     ok = functions.checking_object_on_screen(
         'templates_img/ok.bmp',
         0.92,
@@ -22,6 +23,8 @@ def sell_and_buy_together(start_cord, item):
         functions.mouse_move_click(ok[0], ok[1])
 
     functions.mouse_move_click(start_cord[0] + my_sell[0], start_cord[1] + my_sell[1])
+    interaction.delete_choice_product()
+    time.sleep(0.1)
 
     while True:
         
